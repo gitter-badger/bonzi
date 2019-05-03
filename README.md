@@ -1,2 +1,2 @@
 # bonzi
-[WIP] A immersive development environment for xen (which is also WIP)
+[WIP] An immersive development environment for xen (which is also WIP)
